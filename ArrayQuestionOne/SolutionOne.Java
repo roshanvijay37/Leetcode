@@ -11,3 +11,4 @@ class Solution {
         }
     }
 }
+//This solution works fine, But time complexity for this is method is O(n^2) and this can be reduced to O(n), That solution is given in SolutionTwo.java
